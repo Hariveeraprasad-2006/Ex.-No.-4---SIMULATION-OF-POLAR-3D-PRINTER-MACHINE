@@ -1,7 +1,4 @@
 # Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
-
-### DATE: 
-
 ## AIM:
 ### To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
 
@@ -55,8 +52,5 @@ The extruder is the component responsible for feeding and extruding the filament
 Filament refers to the material used as the raw feedstock for 3D printing. Filament is a long, thin thread-like material that is fed into the extruder and melted for deposition layer by layer to create the 3D printed object.
 ## Playing with axes:
 ![image](https://github.com/Hariveeraprasad-2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/145049988/2e1f772e-51fd-426e-8718-d7f67be6adab)
-### Name:ARIKATLA HARI VEERA PRASAD
-### Register Number:23009466
-
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
